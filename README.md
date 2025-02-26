@@ -3,8 +3,7 @@ I am Artem Vasko 22 y.o. from UA. Call me ARTem :))
 Gratuated in the Dnipro National University where me had taken Computer Science Master+Bachelor degree. 
 
 Feel free to contact with me:
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/artem-vasko/)](https://www.linkedin.com/in/artem-vasko/)
-[![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/c/koolkanna)
+[![Linkedin Badge](https://img.shields.io/badge/-artemvasko-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/artem-vasko/)](https://www.linkedin.com/in/artem-vasko/)
 [![Gmail Badge](https://img.shields.io/badge/-artemianfranschesko@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:artemianfranschesko@gmail.com)](mailto:artemianfranschesko@gmail.com)
 
 ## ⚡ Technologies  
