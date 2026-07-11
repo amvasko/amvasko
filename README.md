@@ -26,8 +26,8 @@ Specialties: Data Augmentation, Neural Network Architecture, LLM Mechanics, High
 💬 Ask me about: Data augmentation strategies, optimizing hyper-parameters for CV tasks, or the Mike Mentzer "Heavy Duty" training system!
 
 📫 Let's Connect!
-Email: [Your Email Address]
+Email: artemainfranschesko@gmail.com
 
-LinkedIn: [Your LinkedIn Profile URL]
+LinkedIn: https://www.linkedin.com/in/artem-vasko/
 
-Portfolio/Website: [Your Website URL]
+Portfolio/Website: 
