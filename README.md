@@ -37,8 +37,8 @@ I am a 23-year-old **Computer Science Researcher** and **FullStack Engineer** op
 
 <!-- LIVE HARDWARE METERS: Pulls active data directly from your GitHub profile -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=artem-vasko&show_icons=true&theme=matrix&hide_border=false&include_all_commits=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artem-vasko&layout=compact&theme=matrix&hide_border=false" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amvasko&show_icons=true&theme=matrix&hide_border=false&include_all_commits=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amvasko&layout=compact&theme=matrix&hide_border=false" width="49%" />
 </p>
 
 ---
