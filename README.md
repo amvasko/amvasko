@@ -1,5 +1,5 @@
 <p align ="center"
-  <img src = "https://media.tenor.com/v-d5E2Xnv_sAAAAM/lain-serial-experiments-lain.gif" width = "100%" />
+  <img src = "[https://media.tenor.com/v-d5E2Xnv_sAAAAM/lain-serial-experiments-lain.gif](https://i.pinimg.com/originals/d7/64/84/d76484f755763b87d45ec9c56e21b37c.gif)" width = "100%" />
 </p>
 <!-- LAYER_00: CONNECTIVITY HEADER -->
 <p align="center">
