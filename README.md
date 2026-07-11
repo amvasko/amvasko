@@ -1,5 +1,5 @@
 <p align ="center"
-  <img src = "https://media.tenor.com/v-d5E2Xnv_sAAAAM/lain-serial-experiments-lain.gif" />
+  <img src = "https://media.tenor.com/v-d5E2Xnv_sAAAAM/lain-serial-experiments-lain.gif" width = "100%" />
 </p>
 <!-- LAYER_00: CONNECTIVITY HEADER -->
 <p align="center">
@@ -78,7 +78,7 @@ I am a 23-year-old **Computer Science Researcher** and **FullStack Engineer** op
 ```text
 ┌─── [ NETWORK TERMINAL UPLINK ] ──────────────────────────────────────┐
 │                                                                      │
-│  » EMAIL     :: artemainfranschesko@gmail.com                        │
+│  » EMAIL     :: artemianfranschesko@gmail.com                        │
 │  » LINKEDIN  :: [linkedin.com/in/artem-vasko](https://linkedin.com/in/artem-vasko)                          │
 │  » STATUS    :: Synced to Local Node. Running low-frequency loops.   │
 │                                                                      │
