@@ -1,3 +1,7 @@
+========================================================================
+[PROTOCOL: EX_LAIN_CONNECTED] // DATA_STREAM: ACTIVE
+========================================================================
+
 Hi there, I'm Artem Vasko 👋
 🚀 AI Researcher | PhD Candidate in Computer Science
 I am a 23-year-old Computer Science researcher with a deep focus on Artificial Intelligence, specializing in Computer Vision, Deep Learning, and Large Language Models (LLMs). I am passionate about bridging the gap between theoretical machine learning and applied computer vision systems. Additionaly, highly-interested in the Web Development from FrontEnd till to BackEnd. Doing both tasks as a FullStack Engineer (MEAN+MERN stack) 
@@ -25,9 +29,14 @@ Specialties: Data Augmentation, Neural Network Architecture, LLM Mechanics, High
 
 💬 Ask me about: Data augmentation strategies, optimizing hyper-parameters for CV tasks, or the Mike Mentzer "Heavy Duty" training system!
 
-📫 Let's Connect!
-Email: artemainfranschesko@gmail.com
+┌─── [CONNECT_TO_THE_WIRED] ───────────────────────────────────────────┐
+│ • Email:      [artemainfranschesko@gmail.com]                                   │
+│ • LinkedIn:   [https://www.linkedin.com/in/artem-vasko/]                             │
+│ • Terminal:   Active in the local node.        
+  • Portfolio/Website
+└──────────────────────────────────────────────────────────────────────┘
 
-LinkedIn: https://www.linkedin.com/in/artem-vasko/
 
-Portfolio/Website: 
+========================================================================
+[EOF] // SYSTEM_OFFLINE
+========================================================================
