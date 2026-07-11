@@ -1,17 +1,33 @@
-## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
-I am Artem Vasko 22 y.o. from UA. Call me ARTem :)) 
-Gratuated in the Dnipro National University where me had taken Computer Science Master+Bachelor degree. 
-🌟 About Me: 
-💻 Passionate about building innovative web apps and tools that optimize workflows and solve real-world problems.
-🛠️ Skilled in front-end and back-end development, focusing on creating seamless user experiences. 
-🤓 Continuously learning and experimenting with new technologies, including AI, neural networks, and data processing.
----
-## 🚀 What I'm Working On  
-🔹 Developing **AI-powered applications** for real-world problem-solving.  
-🔹 Building **scalable full-stack web apps** with **React, Node.js, and cloud technologies**.  
-🔹 Experimenting with **neural networks and computer vision**.  
----
-## 📈 GitHub Stats  
+Hi there, I'm Artem Vasko 👋
+🚀 AI Researcher | PhD Candidate in Computer Science
+I am a 23-year-old Computer Science researcher with a deep focus on Artificial Intelligence, specializing in Computer Vision, Deep Learning, and Large Language Models (LLMs). I am passionate about bridging the gap between theoretical machine learning and applied computer vision systems. Additionaly, highly-interested in the Web Development from FrontEnd till to BackEnd. Doing both tasks as a FullStack Engineer (MEAN+MERN stack) 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amvasko&show_icons=true&theme=radical)  
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,docker,react,kubernetes,python,linux)](https://skillicons.dev)
+When I'm not writing code or training models, I'm researching cognitive psychology and biohacking techniques to optimize deep work and technical information retention.
+
+🔬 Current Research & Focus
+PhD Dissertation: Currently authoring my dissertation on the Integration of Computer Data Augmentation Technologies in Computer Vision Tasks.
+
+Exploring: Advanced neural network architectures, LLM operational mechanics, and innovative data augmentation pipelines to improve model robustness and generalization.
+
+Collaborations: Actively seeking research collaborations with international labs in the fields of neuroscience and brain-computer interfaces (BCI).
+
+🛠 Tech Stack & Expertise
+Core Fields: Artificial Intelligence, Computer Vision, Machine Learning, Deep Learning.
+
+Programming & Tools: Python, PyTorch / TensorFlow, OpenCV. (Add any other specific libraries you use, e.g., Keras, Scikit-learn)
+
+Specialties: Data Augmentation, Neural Network Architecture, LLM Mechanics, High-Performance Computing for AI.
+
+📈 What I'm Up To
+🔭 Currently working on: Preparing scientific theses for international AI conferences and running experiments for my PhD.
+
+🌱 Currently learning: Advanced cognitive optimization techniques to improve technical workflow.
+
+💬 Ask me about: Data augmentation strategies, optimizing hyper-parameters for CV tasks, or the Mike Mentzer "Heavy Duty" training system!
+
+📫 Let's Connect!
+Email: [Your Email Address]
+
+LinkedIn: [Your LinkedIn Profile URL]
+
+Portfolio/Website: [Your Website URL]
