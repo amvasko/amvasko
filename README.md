@@ -1,3 +1,6 @@
+<p align ="center"
+  <img src = "https://media.tenor.com/v-d5E2Xnv_sAAAAM/lain-serial-experiments-lain.gif" />
+</p>
 <!-- LAYER_00: CONNECTIVITY HEADER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=120&section=header&text=%5BPROTOCOL:%20EX_LAIN_CONNECTED%5D&fontSize=22&fontColor=00FF66&animation=twinkling" width="100%" />
